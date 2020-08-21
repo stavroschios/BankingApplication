@@ -1,4 +1,4 @@
-# BankingApplication
+
 
 This application allows you to create different banks, add multiple branches and create different client profiles for each branch and manage their transactions. 
 
